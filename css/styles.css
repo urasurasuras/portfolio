@@ -10152,3 +10152,15 @@ header.masthead h1 {
 .text-white-75 {
   color: rgba(255, 255, 255, 0.75);
 }
+
+iframe {
+  width: 1000px;
+  height: 500px;
+  margin: 0 auto;
+  background-color: #777;
+}
+
+iframe {
+  display: block;
+  border-style:none;
+}
